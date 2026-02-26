@@ -1,5 +1,8 @@
 = Chapter 8: Coming to Terms with an Author
 
+:v-1.0.0: 2026-02-01 | First half
+:v-1.0.1: 2026-02-24 | Second half
+
 == Quotes
 
 RULE 5: Find the important words and through them come to terms with the author.
