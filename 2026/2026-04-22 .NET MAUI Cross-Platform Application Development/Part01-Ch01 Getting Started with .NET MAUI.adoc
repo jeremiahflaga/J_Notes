@@ -16,3 +16,27 @@ In 2019, Apple announced a new framework, SwiftUI. Using SwiftUI, developers can
  - Android 7.0 (API 24) or higher 
  - iOS 14 or higher 
  - macOS 11 or higher, using Mac Catalyst 
+
+
+
+== Misc: Get Started With .NET MAUI for Mobile Development in Mac
+
+https://medium.com/@thushfdo/get-started-with-net-maui-for-mobile-development-in-mac-61f3aa1b45ee
+
+by Thushantha Fernando
+
+Mar 29, 2025
+
+Step 01 — Install .NET SDK
+
+Step 02 — Install Visual Studio Code
+
+Step 03 — Install Extensions on VSCode
+ - ".NET MAUI" (This also installs dependencies like "C# Dev Kit" and ".NET Install Tool")
+
+Step 04 — .NET MAUI workload
+ - `sudo dotnet workload install maui`
+ - `dotnet workload list`
+
+Step 05 — Install Xcode (from App Store)
+ - Then, install Xcode command-line tools with `xcode-select --install`
