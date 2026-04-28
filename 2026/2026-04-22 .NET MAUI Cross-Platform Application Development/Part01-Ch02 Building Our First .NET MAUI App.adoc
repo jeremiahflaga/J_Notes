@@ -18,6 +18,16 @@ Shell is supported by Microsoft.Maui.Controls.Shell and Xamarin.Forms.Shell in .
 .NET MAUI MVVM App Template by Roger Ye: https://marketplace.visualstudio.com/items?itemName=shugaoye.maui
 
 
+build and run for Android: `dotnet build -t:Run -f net6.0-android`
+
+build and test the iOS target: `dotnet build -t:Run -f net6.0-ios -p:_
+DeviceName=:v2:udid=02C556DA-64B8-440B-8F06-F8C56BB7CC22`
+
+   To select a target iOS emulator, we need to provide the device ID using the following parameter: `-p:_DeviceName=:v2:udid=`
+
+   To find the device ID, we can launch Xcode on a Mac computer and go to Windows -> Devices and Simulators,
+
+For the macOS target: `dotnet build -t:Run -f net6.0-maccatalyst`
 
 == Misc: Getting Started with MAUI in Visual Studio Code
 
