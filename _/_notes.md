@@ -35,3 +35,7 @@ Reading history are in the metadata part of each adoc file, with this formatting
 :v-1.0.0: 2023-11-03 | 
 :v-1.0.2: 2026-04-06 | 
 ----
+
+
+Adding sidenote or sidebar notes CSS class for Markdown
+{: .sidenote }
