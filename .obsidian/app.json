@@ -1,3 +1,5 @@
 {
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden",
+  "useMarkdownLinks": true
 }
