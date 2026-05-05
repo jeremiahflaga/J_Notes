@@ -1,7 +1,9 @@
-= Chapter 1: Getting Started with .NET MAUI
+---
+v-1.0.0: 2025-11-07 | Chapters 1, 2, and 1/3 of Chapter 3 only
+v-1.0.1: 2026-04-23 | 
+---
 
-:v-1.0.0: 2025-11-07 | Chapters 1, 2, and 1/3 of Chapter 3 only
-:v-1.0.1: 2026-04-23 | 
+# Chapter 1: Getting Started with .NET MAUI
 
 
 In 2019, Apple announced a new framework, SwiftUI. Using SwiftUI, developers can build user interfaces using the Swift language in a declarative way directly.
@@ -19,7 +21,7 @@ In 2019, Apple announced a new framework, SwiftUI. Using SwiftUI, developers can
 
 
 
-== Misc: Get Started With .NET MAUI for Mobile Development in Mac
+## Misc: Get Started With .NET MAUI for Mobile Development in Mac
 
 https://medium.com/@thushfdo/get-started-with-net-maui-for-mobile-development-in-mac-61f3aa1b45ee
 

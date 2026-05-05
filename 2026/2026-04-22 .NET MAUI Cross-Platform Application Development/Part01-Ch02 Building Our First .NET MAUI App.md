@@ -1,7 +1,9 @@
-= Chapter 2: Building Our First .NET MAUI App
+---
+v-1.0.0: 2025-11-07 | Chapters 1, 2, and 1/3 of Chapter 3 only
+v-1.0.1: 2026-04-24 | up to 2026-04-27
+---
 
-:v-1.0.0: 2025-11-07 | Chapters 1, 2, and 1/3 of Chapter 3 only
-:v-1.0.1: 2026-04-24 | up to 2026-04-27
+# Chapter 2: Building Our First .NET MAUI App
 
 (Note: for testing on Android, you just installed Android Studio, which is a recommended setup by James Montemagno in his video [see link below])
 
@@ -28,7 +30,7 @@ build and test the iOS target: `dotnet build -t:Run -f net6.0-ios -p:_DeviceName
 
 For the macOS target: `dotnet build -t:Run -f net6.0-maccatalyst`
 
-== Misc: Getting Started with MAUI in Visual Studio Code
+## Misc: Getting Started with MAUI in Visual Studio Code
 
 https://www.youtube.com/watch?v=_SEStDLKHMc
 
@@ -49,7 +51,7 @@ Chapters:
 22:55 - Wrap-up
 
 
-== Misc: .NET MAUI Development in VS Code - Complete Setup Guide (Develop on macOS, Linux, & Windows)!
+## Misc: .NET MAUI Development in VS Code - Complete Setup Guide (Develop on macOS, Linux, & Windows)!
 
 by James Montemagno
 
@@ -71,7 +73,7 @@ Chapters:
 30:20 - Wrap-up and final thoughts
 
 
-== Error encountered: This version of .NET for MacCatalyst (26.2.10233) requires Xcode 26.3. The current version of Xcode is 26.4.1. Either install Xcode 26.3, or use a different version of .NET for MacCatalyst. See https://aka.ms/xcode-requirement for more information.
+## Error encountered: This version of .NET for MacCatalyst (26.2.10233) requires Xcode 26.3. The current version of Xcode is 26.4.1. Either install Xcode 26.3, or use a different version of .NET for MacCatalyst. See https://aka.ms/xcode-requirement for more information.
 
 Solution: install Xcode version 26.3 using Xcodes or Xcodes CLI
 
@@ -82,7 +84,7 @@ Solution: install Xcode version 26.3 using Xcodes or Xcodes CLI
 `xcodes installed`
 
 
-== Error encountered: No simulator runtime version from ["23E254a"] available to use with iphonesimulator SDK version 23C57
+## Error encountered: No simulator runtime version from \["23E254a"\] available to use with iphonesimulator SDK version 23C57
 
 Solution: Install iOS simulator for Xcode 26.3
 
