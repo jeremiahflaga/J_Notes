@@ -1,0 +1,16 @@
+# Obsidian system files and workspace layouts
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Optional: Plugin-specific data and cache
+# .obsidian/plugins/smart-connections/
+# .obsidian/plugins/copilot/
+.obsidian/cache/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Obsidian internal trash
+.trash/
