@@ -1,5 +1,5 @@
 ---
-:v-1.0.0: 2025-05-02 | 
+v-1.0.0: 2025-05-02 | 
 ---
 
 # Chapter 4: Exploring MVVM and Data Binding
