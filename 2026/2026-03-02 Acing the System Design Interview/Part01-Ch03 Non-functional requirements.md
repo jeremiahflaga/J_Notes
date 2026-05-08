@@ -16,3 +16,16 @@ Consistency has different meanings in ACID and CAP (from the CAP theorem). ACID 
 
 [sidebar]
 (is linearizability an alternative term to strong consistency / immediate consistency)
+
+
+
+---
+On CAP Theorem, see:
+
+The CAP Theorem. The Bad, the Bad, & the Ugly - https://www.dtornow.com/blog/the-cap-theorem/
+
+Please stop calling databases CP or AP
+Published by Martin Kleppmann on 11 May 2015.
+
+Designing Data-Intensive Applications by Martin Kleppmann
+---

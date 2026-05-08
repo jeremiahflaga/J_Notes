@@ -79,3 +79,19 @@ KPCLib is KeePassLib rebuilt as a .NET Standard 2.0 library
 NuGet: https://www.nuget.org/packages/KPCLib/
 
 GitHub: https://github.com/passxyz/KPCLib
+
+PassXYZLib nuget package:
+
+``` xml
+<ItemGroup>
+    <PackageReference Include="PassXYZLib"
+    Version="2.0.2" />
+</ItemGroup>
+```
+
+## Binding to collections
+
+In order to update UI automatically, the source object needs to implement the `INotifyCollectionChanged` interface.
+
+We can implement our collection object with the INotifyCollectionChanged interface, but the
+simplest approach is to use the `ObservableCollection<T>` class.
