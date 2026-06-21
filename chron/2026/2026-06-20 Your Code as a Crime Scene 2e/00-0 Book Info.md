@@ -24,4 +24,15 @@ Book version: P1.0—February 2024
 
 Adam presents tools, techniques, and insight that will change the way you
 develop software. **You can’t unread this information, and you will see software differently.**
- --- Michael Feathers | Author, Working Effectively with Legacy Code
+--- Michael Feathers | Author, Working Effectively with Legacy Code
+
+His forensic techniques for analyzing and improving both the technical and the social aspects of a code base are a godsend for developers working with legacy systems. I found this book extremely useful to my own work and highly recommend it!
+--- Nell Shamrell-Harrington | Lead developer, PhishMe
+
+Useful for programmers, the book provides a powerful tool to smart testers, too.
+--- James Bach | Author, Lessons Learned in Software Testing
+
+
+gems from behavioral psychology
+
+anecdotes from forensic psychology
