@@ -1,5 +1,5 @@
 ---
-v-1.0.0: 2026-06-21 |
+v-1.0.0: 2026-06-21 | chapters 1 to 3 only for now
 :book-info: eBook | bought May 29, 2026 | HumbleBundle, The Ultimate Functional Programming by Pragmatic Programmers | ~ USD 1, PHP 185.29 (USD 3 for 3 ebooks)
 ---
 

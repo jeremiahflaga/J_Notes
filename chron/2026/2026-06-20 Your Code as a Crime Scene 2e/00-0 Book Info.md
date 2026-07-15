@@ -1,6 +1,6 @@
 ---
 v-1.0.0: 2026-06-04 | 
-book-info: eBook, PDF | bought April 14, 2025 | Fanatical.com | ~ USD 1.28 (USD 8.94 for 7 ebooks from various bundles)
+book-info: eBook, PDF | bought April 14, 2025 | Fanatical.com | ~ USD 1.49 (USD 8.94 for 6 ebooks from various bundles)
 ---
 
 # Your Code as a Crime Scene, Second Edition
