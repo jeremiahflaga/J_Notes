@@ -8,15 +8,12 @@ v-1.0.0: 2026-06-20 |
 ## Why You Should Read This Book
 
 As you progress through the book, you’ll
-• predict which sections of code have the most defects and the steepest
-learning curves;
-• use behavioral code analysis to identify, prioritize, and remediate technical
-debt and maintenance issues;
-• understand how multiple developers and teams influence code quality;
-• learn how to track organizational problems in your code and get tips on
-how to fix them; and
-• get a psychological perspective on your programs and learn how to make
-them easier to understand.
+
+ - predict which sections of code have the most defects and the steepest learning curves;
+ - use behavioral code analysis to identify, prioritize, and remediate technical debt and maintenance issues;
+ - understand how multiple developers and teams influence code quality;
+ - learn how to track organizational problems in your code and get tips on how to fix them; and
+ - get a psychological perspective on your programs and learn how to make them easier to understand.
 
 
 ## Who Should Read This Book?
@@ -59,11 +56,18 @@ Programming needs to be aligned with the way our brain works.
 ## Get Your Investigative Tools
 
 Code Maat
+
 Git
+
 Python
+
 CodeScene (https://codescene.com/)
 
 ### Forget the Tools
+
+when it comes to software design,
+there’s no tool that replaces human expertise. What you’ll learn goes beyond
+any tool.
 
 ### Install Your Tools
 
@@ -90,3 +94,6 @@ forum, where you can talk with other readers and with me. If you find any
 mistakes, please report them on the errata page. --- https://pragprog.com/titles/atcrime/your-code-as-a-crime-scene/
 
 ### Know What’s Expected
+
+Tools will come and go; details will change. The intent here is to go deeper
+and focus on timeless aspects of large-scale software development.

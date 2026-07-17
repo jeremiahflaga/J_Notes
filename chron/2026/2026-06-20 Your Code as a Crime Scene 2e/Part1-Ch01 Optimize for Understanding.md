@@ -31,14 +31,15 @@ then we should **optimize for understanding**. That’s the big win.
 
 ### Understand Maintenance in an Agile World
 
-maintenance now accounts for over 90 percent of a typical product’s life-cycle costs
+maintenance now accounts for over **90 percent** of a typical product’s life-cycle costs
 
 
 ## Meet the Challenges of Scale
 
 
 **Joe asks: Can’t I Avoid Complexity by Getting It Right the First Time?**
-No, a certain level of accidental solution complexity is inevitable. Let’s say we insist
+
+No, a certain level of accidental solution complexity is **inevitable**. Let’s say we insist
 on every single line of code being perfect, simple, and correct. As we will see in Design
 for Human Problem-Solving, on page 173, even this noble approach isn’t enough. The
 nature of software development and human problem-solving, in general, is inherently
