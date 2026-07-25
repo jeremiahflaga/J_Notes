@@ -1,5 +1,5 @@
 ---
-v-1.0.0: 2026-06-04 | 
+v-1.0.0: 2026-06-04 | first three chapters only (see end of chapter 3 for reason); will look into this book again if I need it in the future
 book-info: eBook, PDF | bought April 14, 2025 | Fanatical.com | ~ USD 1.49 (USD 8.94 for 6 ebooks from various bundles)
 ---
 

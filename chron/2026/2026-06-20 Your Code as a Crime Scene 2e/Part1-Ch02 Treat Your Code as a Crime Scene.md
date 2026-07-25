@@ -48,9 +48,9 @@ version-control data via a treemap algorithm - 3. https://github.com/adamtornhil
 
 ### Find Hotspots by Merging Complexity and Relevance
 
-When put together, the overlap between complexity and effort signals a
-hotspot, an offender in code. Hotspots are complicated code that you have to
-work with often.
+When put together, the **overlap** between complexity and effort signals a
+**hotspot**, an offender in code. Hotspots are **complicated** code that you have to
+work with **often**.
 
 ### Know That Hotspots Predict Defects
 
@@ -61,7 +61,7 @@ quality
 ## Be Aware That Hotspots Reflect Probabilities
 
 Code that changes frequently doesn’t have to be a
-problem, but — again — it’s likely. This is why it’s important to complement the
+problem, but — again — it’s **likely**. This is why it’s important to complement the
 probability surface given by our hotspots with code-level insights, a topic we’ll
 expand on throughout Part I.
 
