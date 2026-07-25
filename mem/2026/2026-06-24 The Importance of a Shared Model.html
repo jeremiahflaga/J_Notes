@@ -1,0 +1,92 @@
+
+The Importance of a Shared Model.
+
+<br><br>
+
+...
+
+Before attempting to solve a problem, it’s important that we understand the
+problem correctly. Obviously, if our understanding of the problem is incomplete
+or distorted, then we won’t to be able to provide a useful solution. And sadly,
+of course, it’s the developers’ understanding, not the domain experts’ understanding,
+that gets released to production!
+
+<br><br>
+
+So how can we ensure that we, as developers, do understand the problem?
+Some software development processes address this by using written specifications,
+or requirements documents, to try to capture all the details of a
+problem. Unfortunately, this approach often creates distance between the
+people who understand the problem best, and the people who will implement
+the solution. We’ll call the latter the “development team,” by which we mean
+not just developers, but also UX and UI designers, testers, and so on. 
+And we’ll call the former “domain experts.” 
+
+<br><br>
+
+I won’t attempt to define “domain
+expert” here. — I think you’ll know one when you see one!
+
+<br><br>
+
+In a children’s game called “Telephone,” a message is whispered from person
+to person along a chain of people. With each retelling, the message gets more
+and more distorted, with comic results.
+
+It’s not so funny in a real-world development project. A mismatch between
+the developer’s understanding of the problem, and the domain expert’s
+understanding of the problem, can be fatal to the success of the project.
+
+<br><br>
+
+A much better solution is to eliminate the intermediaries, and encourage the
+domain experts to be intimately involved with the development process;
+introducing a feedback loop between the development team and the domain
+expert. The development team regularly delivers something to the domain
+expert, who can quickly correct any misunderstandings for the next iteration.
+
+<br><br>
+
+This kind of iterative process is at the core of agile development processes.
+
+<br><br>
+
+However, even this approach has its problems. The developer acts as a
+translator, translating the domain expert’s mental model into code. But as
+in any translation, this process can result in distortion and loss of important
+subtleties. If the code doesn’t quite correspond to the concepts in the domain,
+then future developers working on the codebase, without input from a domain
+expert, can easily misunderstand what’s needed, and introduce errors.
+
+<br><br>
+
+But there is a third approach. What if the domain experts, the development
+team, other stakeholders, and (most importantly) the source code itself, all
+share the same model? In this case, there is no translation from the domain
+expert’s requirements to the code. Rather, the code is designed to reflect the
+shared mental model directly.
+
+<br><br>
+
+And that is the goal of domain-driven design.
+
+Aligning the software model with the business domain, has a number of
+benefits. :  <br>
+
+• Faster time to market. <br>
+• More business value. <br>
+• Less waste. <br>
+and, • Easier maintenance and evolution. <br>
+
+<br><br>
+
+So we need to create a shared model. How can we do this? The domain-driven
+design community has developed some guidelines to help us here. They are
+as follows. :  <br>
+
+1. • Focus on business events and workflows rather than data structures. <br>
+2. • Partition the problem domain into smaller subdomains. <br>
+3. • Create a model of each subdomain in the solution. <br>
+4. • Develop a common language (known as the “Ubiquitous Language”) that
+is shared between everyone involved in the project, and is used everywhere
+in the code. <br>
