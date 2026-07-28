@@ -23,3 +23,14 @@ new value winds up at the very end - a total of N + 1 steps
 
 
 ## Binary Search
+
+
+## Binary Search vs. Linear Search
+
+as an array
+has more elements, linear search takes a **proportionally** increasing number
+of steps
+
+With binary search, on the other hand, you’ll see that as the data increases,
+the algorithm’s steps only increase **marginally**.
+
