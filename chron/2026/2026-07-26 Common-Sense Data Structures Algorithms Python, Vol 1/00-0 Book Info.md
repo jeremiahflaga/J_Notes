@@ -7,6 +7,8 @@ book-info: eBook, PDF | bought July 25, 2026 | HumbleBundle.com, AI, ML, and Dec
 
 Level Up Your Core Programming Skills
 
+(book is also called CSGDSAP-Vol1 in this notes)
+
 
 by Jay Wengrow
 
