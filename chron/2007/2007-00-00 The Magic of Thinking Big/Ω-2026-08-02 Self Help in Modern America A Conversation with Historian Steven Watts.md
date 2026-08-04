@@ -3,8 +3,10 @@
 
 https://albertmohler.com/2015/02/16/thinking-in-public-watts/
 
-> The modern psychological development came after the development of new thought. 
-> ... it was the new thought movement that got there before psychology, and that new thought movement was explicitly religious
+> You have **modern advertising**. As Professor Watts makes very clear, advertising in the past, in the late 19th and early 20th centuries, was basically about **function**. You needed to buy this because it would do that. But by the time you get to the early decades of the 20th century, advertising is about lifestyle aspiration. It’s about the invention of the self. Advertisers are not so much that you need this in order to do that, but that you need to be this kind of person and buying this product will make you the kind of person you want to be.
+
+> The **modern psychological development** came after the development of new thought. 
+> ... it was the **new thought movement** that got there before psychology, and that new thought movement was explicitly religious
 
 > One of the most interesting things to me in looking at the entire phenomenon of Dale Carnegie is how much of what he has written… for instance, in that bestselling book, How to Win Friends and Influence People… is just **common sense**, the kind of common sense people really do need to know. And yet, it is infused with so much manipulative self-worship, so much of the self-actualization philosophy, so much of the new age thinking, the new thought world, where you look at that and you recognize that there’s no way to separate the kernel and the husk. It’s all one thing.
 
