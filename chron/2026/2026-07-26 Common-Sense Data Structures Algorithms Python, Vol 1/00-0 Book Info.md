@@ -1,6 +1,6 @@
 ---
 v-1.0.0: 2026-07-26 | 
-book-info: eBook, PDF | bought July 25, 2026 | HumbleBundle.com, AI, ML, and Decision Engines | ~ USD 1.47 (USD 25 for a bundle of 17 ebooks)
+book-info: eBook, PDF | bought July 25, 2026 | HumbleBundle.com - AI, ML, and Decision Engines Book Bundle | ~ USD 1.47 (USD 25 for a bundle of 17 ebooks)
 ---
 
 # A Common-Sense Guide to Data Structures and Algorithms in Python, Volume 1
