@@ -99,7 +99,7 @@ it the right instructions.
 
 ### Hallucinations
 
-(JBOY: There's a very interesting conversation to be had about whether that is truly the fight word to describe this behavior. -- from page 79 of "Quick Start Guide to Large Language Models" 2nd edition by Sinan Ozdemir)
+(JBOY: There's a very interesting conversation to be had about whether that is truly the fight word to describe this behavior... A popular response to this hallucinating behavior was to create retrieval augmented generation (RAG) systems, which combined generative models like T5, GPT, and Llama with retrieval-based models like BERT to fill the generator model with information obtained by the retriever model. -- from page 79 of "Quick Start Guide to Large Language Models" 2nd edition by Sinan Ozdemir)
 
 (JBOY: Grady Booch prefer to use the term "confabulate", in ("Software architecture, human judgment, and AI's limits with Grady Booch")[https://www.youtube.com/watch?v=oRjLzxg8q6A])
 

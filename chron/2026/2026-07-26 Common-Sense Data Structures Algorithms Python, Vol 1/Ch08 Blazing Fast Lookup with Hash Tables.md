@@ -1,5 +1,5 @@
 ---
-v-1.0.0: 2026-08-08 | 
+v-1.0.0: 2026-08-21 | 
 ---
 
 # CHAPTER 8: Blazing Fast Lookup with Hash Tables
