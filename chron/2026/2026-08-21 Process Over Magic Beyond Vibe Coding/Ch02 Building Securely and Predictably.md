@@ -11,7 +11,7 @@ reliable code — not just prototypes, but production-quality software.
 ## Keep the Edge
 
 Do you need to be a programmer to do it?
-Not necessarily, but you do need to think like one.
+Not necessarily, but **you do need to think like one**.
 
 the trick to making LLMs work for coding isn’t
 finding some magical “perfect prompt;” it’s about setting up a solid process

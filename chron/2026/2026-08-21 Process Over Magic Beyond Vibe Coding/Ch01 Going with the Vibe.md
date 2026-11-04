@@ -55,7 +55,7 @@ more like you’re designing an input that maximizes the chance of getting the
 output you want. The mindset shift is from conversation to probability
 shaping.
 
-• First, guide it—don’t try to convince it:
+• First, guide it — don’t try to convince it:
 
 • Second, start with the shape of the result:
 
@@ -107,7 +107,7 @@ This happens because of how LLMs work. They don’t “know” facts—they
 **predict the next most likely word** based on patterns they’ve seen during
 training. When the model doesn’t have a clear answer, it still tries to fill the
 gap with something that sounds right. In short, hallucinations aren’t magic
-or mystery—they’re a a statistical side effect 8 of a system designed to be fluent
+or mystery — they’re a a statistical side effect 8 of a system designed to be fluent
 rather than certain.
 
 8. https://arxiv.org/html/2509.04664v1
@@ -118,7 +118,7 @@ rather than certain.
 For the same reasons, it’s also very tricky to measure LLMs’ capabilities. As
 the paper “What Does Human Evaluation Even Mean?” 9 explains, LLMs often
 outperform humans in tests and benchmarks not because they “understand”
-more but because they exploit patterns and shortcuts in the tests themselves.
+more but because **they exploit patterns and shortcuts** in the tests themselves.
 
 9. https://arxiv.org/pdf/2502.07445
 
@@ -208,8 +208,7 @@ With all due respect, I don’t agree that “code is a lossy projection of spec
 process of writing, refining, and understanding code.
 
 As Eoin Woods put it when reviewing this book: “Layers of formally defined
-languages and reification between them is **totally different** to a nondeterministic
-translation from natural language to formal language.”
+languages and reification between them is **totally different** to a *nondeterministic translation* from natural language to formal language.”
 
 13. https://www.youtube.com/watch?v=8rABwKRsec4
 
